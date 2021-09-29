@@ -1,0 +1,3 @@
+Z:\LojinhaDoZe\Lojinha Do Ze Program\obj\Debug\Lojinha Do Ze.csprojAssemblyReference.cache
+Z:\LojinhaDoZe\Lojinha Do Ze Program\obj\Debug\Lojinha_Do_Ze.Form1.resources
+Z:\LojinhaDoZe\Lojinha Do Ze Program\obj\Debug\Lojinha Do Ze.csproj.GenerateResource.cache
