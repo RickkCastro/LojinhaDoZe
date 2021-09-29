@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
-namespace Programa_MySql
+namespace Lojinha_Do_Ze
 {
     public class Campos
     {

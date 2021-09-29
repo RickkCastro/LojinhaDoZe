@@ -115,7 +115,6 @@
             this.label3.Size = new System.Drawing.Size(147, 32);
             this.label3.TabIndex = 5;
             this.label3.Text = "Descrição";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox1
             // 
@@ -133,7 +132,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(261, 58);
             this.textBox2.TabIndex = 7;
-            this.textBox2.Text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
             // 
             // label4
             // 
@@ -194,7 +192,7 @@
             this.Font = new System.Drawing.Font("Niagara Engraved", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(2, 4, 2, 4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Lojinha do Zé";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
